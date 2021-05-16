@@ -9,3 +9,9 @@
 - [ ] Spring data-jpa
 - [ ] spring-boot-starter-thymeleaf
 - [ ] mysql-connector-java
+- [ ] Mysql
+
+
+*Para rodar o projeto deve mudar o ip e senha de acesso ao banco de dado mysql no arquivo application.properties*
+
+*O arquivo application.properties está configurado para criar o banco e tabela usada no projeto caso não exista*
